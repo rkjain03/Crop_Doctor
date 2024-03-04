@@ -1,15 +1,4 @@
-<<<<<<< HEAD
 <h1 align="center">Crop-Doctor App</h1>
-=======
-<h1 align="center">Crop Doctor</h1>
->>>>>>> 9523318e1c1899c9fdb66892cd81d76f1cdee538
-
-<div align="center">
-
-<a href="https://github.com/CROP-DOCTOR-SIH-22/Crop-Doctor"><img width=200px src="https://github.com/CROP-DOCTOR-SIH-22/Crop-doctor-frontend/blob/main/frontend/public/android-chrome-512x512.png"  alt="Project logo"/></a>
- 
-</div>
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
 ## 📝 Table of Contents

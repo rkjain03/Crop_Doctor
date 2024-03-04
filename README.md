@@ -1,12 +1,5 @@
 <h1 align="center">Crop-Doctor App</h1>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started ](#getting_started)
-- [Authors](#authors)
-- [Contribution](#contribution)
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-about-a-name--abouta)
 
 ## 🧐 About <a name = "about"></a>
@@ -39,19 +32,7 @@ The key features of the project are: 
  <li>A chatbot for personal communication (alerts, updates, etc.)</li>
 </ol>
 
-## 1.4 System Architecture
-
-The system architecture for the application is as followed:
-
-<a href="https://github.com/CROP-DOCTOR-SIH-22/Crop-doctor-frontend"><img width="auto" src="./AboutProject/ArchitectureDiagram.svg"  alt="System Architecture"/></a></a>
-
-## 1.4 Activity Diagram
-
-The activity diagram for the application is as followed:
-
-<a href="https://github.com/CROP-DOCTOR-SIH-22/Crop-doctor-frontend"><img width="auto" src="https://github.com/CROP-DOCTOR-SIH-22/Crop-Doctor/blob/frontend/AboutProject/ActivityDiagram.svg"  alt="Activity Diagram"/></a></a>
-
-## 1.5 Tech-Stack Used
+## 1.4 Tech-Stack Used
 
 <div align="center">
  

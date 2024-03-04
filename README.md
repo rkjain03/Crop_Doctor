@@ -1,16 +1,14 @@
+<<<<<<< HEAD
 <h1 align="center">Crop-Doctor App</h1>
+=======
+<h1 align="center">Crop Doctor</h1>
+>>>>>>> 9523318e1c1899c9fdb66892cd81d76f1cdee538
 
 <div align="center">
 
 <a href="https://github.com/CROP-DOCTOR-SIH-22/Crop-Doctor"><img width=200px src="https://github.com/CROP-DOCTOR-SIH-22/Crop-doctor-frontend/blob/main/frontend/public/android-chrome-512x512.png"  alt="Project logo"/></a>
  
 </div>
-
-<br/>
-
-[![Watch the video](https://img.youtube.com/vi/gDaStPFfytY/maxresdefault.jpg)](https://youtu.be/gDaStPFfytY)
-
-<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
@@ -79,6 +77,7 @@ The activity diagram for the application is as followed:
 | Selenium, Requests | Web Scraping for Data Collection (in addition to dataset) |
 | Docker | Containerization |
 | Nginx | Reverse Proxying and for authentication gateway |
+<<<<<<< HEAD
  
  </div>
 
@@ -138,3 +137,5 @@ A step by step series of examples that tell you how to get a development env run
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-authors-a-name--authorsa)
+=======
+>>>>>>> 9523318e1c1899c9fdb66892cd81d76f1cdee538

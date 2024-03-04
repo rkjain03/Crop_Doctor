@@ -46,6 +46,5 @@ The key features of the project are: 
 | Selenium, Requests | Web Scraping for Data Collection (in addition to dataset) |
 | Docker | Containerization |
 | Nginx | Reverse Proxying and for authentication gateway |
-<<<<<<< HEAD
- 
- </div>
+
+</div>

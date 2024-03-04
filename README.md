@@ -1,5 +1,4 @@
 <h1 align="center">Crop-Doctor App</h1>
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
 ## 📝 Table of Contents
 

@@ -1,4 +1,4 @@
-# Fasal-Mitra
+# Crop-Doctor
 An automated plant disease detection app
 * This app will help farmers to detect the diseases and how can they overcome it.  ​
 

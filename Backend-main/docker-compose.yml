@@ -10,7 +10,7 @@ services:
       - redis
     links: ["redis"] 
     environment:
-      - MONGO_URI=mongodb+srv://fasalmitra:fasalmitra2022@cluster0.k8bxu.mongodb.net/mainDB?retryWrites=true&w=majority
+      - MONGO_URI=mongodb+srv://cropdoctor:cropdoctor2022@cluster0.k8bxu.mongodb.net/mainDB?retryWrites=true&w=majority
       - EXPIRATION_TIME=2617920000
     networks:
       - web
@@ -21,7 +21,7 @@ services:
       - "8082:5000"
     environment:
       - PYTHONUNBUFFERED=1
-      - MONGO_URI=mongodb+srv://fasalmitra:fasalmitra2022@cluster0.k8bxu.mongodb.net/mainDB?retryWrites=true&w=majority
+      - MONGO_URI=mongodb+srv://cropdoctor:cropdoctor2022@cluster0.k8bxu.mongodb.net/mainDB?retryWrites=true&w=majority
     networks:
       - web
       - mainnet

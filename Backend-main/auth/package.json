@@ -1,5 +1,5 @@
 {
-  "name": "fasal-mitra",
+  "name": "crop-doctor",
   "version": "1.0.0",
   "description": "An automated plant disease detection app\r * This app will help farmers to detect the diseases and how can they overcome it.  ​",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SIH-22/Fasal-Mitra.git"
+    "url": "git+https://github.com/SIH-22/Crop-Doctor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SIH-22/Fasal-Mitra/issues"
+    "url": "https://github.com/SIH-22/Crop-Doctor/issues"
   },
-  "homepage": "https://github.com/SIH-22/Fasal-Mitra#readme",
+  "homepage": "https://github.com/SIH-22/Crop-Doctor#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.6",
